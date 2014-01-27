@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Salman Mushir]]></title>
+  <link href="http://slmnm.github.io/atom.xml" rel="self"/>
+  <link href="http://slmnm.github.io/"/>
+  <updated>2014-01-27T06:15:22+05:30</updated>
+  <id>http://slmnm.github.io/</id>
+  <author>
+    <name><![CDATA[Salman Mushir]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://slmnm.github.io/sitemap.xml 
