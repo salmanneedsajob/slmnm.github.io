@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Salman Mushir]]></title>
-  <link href="http://slmnm.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Android | Salman Mushir]]></title>
+  <link href="http://slmnm.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://slmnm.github.io/"/>
   <updated>2014-03-05T11:42:06+05:30</updated>
   <id>http://slmnm.github.io/</id>
@@ -20,13 +20,13 @@
     <id>http://slmnm.github.io/blog/2014/03/05/android-studio</id>
     <content type="html"><![CDATA[<p>Android Studio is this shiny new IDE by Google, that was announced during the Google IO 2013 last May. It is built on top of the community edition of IntelliJ IDEA, and is expected to replace the currently used <em>Eclipse + ADT bundle</em> distributed with the Android SDK.</p>
 
-<p><img src="http://i.imgur.com/LR5Vffa.png"></p>
+<p><img class="<a" src="href="http://i.imgur.com/LR5Vffa.png">http://i.imgur.com/LR5Vffa.png</a>"></p>
 
 <p>It&rsquo;s been in its beta stages ever since, so there is still a resistance among developers to move their projects from the god-forsaken old eclipse. As I was starting a new project, I thought when better to start working on Android Studio than its version 0.4.6 , right ?</p>
 
 <p>Ok, so I did. And here goes my initial experiences. I had installed Android Studio long before, when it was in version 0.2.0, but never bothered to use it afterwards. When I opened Android Studio, I got a pop up message about the update to Android 0.4.6 .</p>
 
-<p><img src="http://i.imgur.com/M6DOmMK.jpg"></p>
+<p><img class="<a" src="href="http://i.imgur.com/M6DOmMK.jpg">http://i.imgur.com/M6DOmMK.jpg</a>"></p>
 
 <p>Now, having had many nightmarish times updating eclipse on my linux machine, I was kinda reluctant to do this update. And the message about the canary builds did not help either (see image above). But anyway, working on version 0.2.0 was not an option. So I went ahead and clicked the update button.</p>
 
@@ -48,15 +48,6 @@
 <p>During the initial run, I encountered an error where I had to update my Gradle build file to gradle-1.10-all.zip . It was quite a hurdle, but the awesome community at Stack Overflow always make it easy for you to get on with your project !</p>
 
 <p>I don&rsquo;t intend to switch to eclipse again, I hope Android Studio treats me well :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://slmnm.github.io/blog/2014/01/27/hello-world/"/>
-    <updated>2014-01-27T07:07:34+05:30</updated>
-    <id>http://slmnm.github.io/blog/2014/01/27/hello-world</id>
-    <content type="html"><![CDATA[<p>Testing first post. No hassle. Blogging <a href="http://octopress.org/docs/">like a hacker</a>.</p>
 ]]></content>
   </entry>
   
